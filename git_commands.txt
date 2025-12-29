@@ -1,0 +1,24 @@
+1 try { . "c:\Users\prashant.dev.singh\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\cont...
+   2 & C:/Users/prashant.dev.singh/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/prashant.dev.singh/One...
+   3 & C:/Users/prashant.dev.singh/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/prashant.dev.singh/One...
+   4 test.py
+   5 python test.py
+   6 cd github-for-devops
+   7 pyto
+   8 python .\test.py
+   9 python test.py
+  10 python test.py
+  11 git init
+  12 dir
+  13 ls
+  14 ls -a
+  15 ls
+  16 ls -a
+  17 python test.py
+  18 clear
+  19 git status
+  20 git add test.py
+  21 git status
+  22 git commit -m "testing files"
+  23 git status
+  24 clear
