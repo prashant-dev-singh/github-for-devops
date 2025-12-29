@@ -22,3 +22,7 @@
   22 git commit -m "testing files"
   23 git status
   24 clear
+  25 add new line 
+  26 Testing with new lines in the file 
+
+  
